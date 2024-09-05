@@ -1,0 +1,21 @@
+# The Oasis, a home with 7 rooms
+# Author: Aunindya Jyoti
+7
+0: Sunlit Garden: An indoor garden with tropical plants, a koi pond, and a hammock. Warm light comes from a skylight.
+1: Cozy Library: Shelves of classic books and antiques. A comfy armchair, wooden desk, and a piano by the window.
+2: Gourmet Kitchen: A modern kitchen with a granite island and glass cabinets. You can see the expansive backyard from the window, and the smell of fresh spices is strong.
+3: Elegant Dining Room: A long oak table under a crystal chandelier. The walls have artwork, and a sideboard holds fine china.
+4: Grand Living Room: Spacious with high ceilings and comfy sofas. There’s a stone fireplace, and lots of light from large windows.
+5: Tranquil Bedroom: A peaceful room with a king-sized bed, a reading nook, and a private balcony. Soft colors and fluffy pillows make it relaxing.
+6: Modern Bathroom: Features sleek fixtures, a walk-in shower, and a freestanding tub by a window. Bath products are neatly arranged for a spa-like feel.
+# Room Exits: a room ID followed by the exits from that room
+# The exits are given for cardinal directions: West, North, East, South
+# -1 indicates there is no exit for that direction
+#    W   N   E   S
+0:  -1:  4: -1: -1
+1:   0:  5:  4: -1
+2:  -1: -1: -1:  3
+3:   4:  2: -1: -1
+4:   1: -1:  3:  0
+5:   6: -1: -1:  1
+6:  -1: -1:  5: -1
